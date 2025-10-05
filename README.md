@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rina Adibah</h1>
 <h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast 🚀</h3>
 
-Welcome to my tech playground! 📊 I'm passionate about transforming data into actionable insights and building impactful solutions. Currently embarking on an exciting journey in the world of data science and machine learning.
+Welcome to my tech playground! 📊 I'm passionate about transforming data into actionable insights and building impactful solutions.
 
-I hold a **Master's degree in Business** and am currently studying a **Data Science and Machine Learning** program to deepen my expertise and contribute to innovative solutions in these fields.
+I’m a Data Analyst and Business Intelligence Analyst with a multidisciplinary background in Physics, Business, and Data Science, combining analytical rigor with business strategy to help organizations make smarter, data-informed decisions.
+
+Currently working as a Data Analyst Intern — Production Planning and Inventory Control (PPIC) Division at Segari, I specialize in supply chain and warehouse analytics, focusing on capacity planning, inventory optimization, and dashboard automation. I’ve built the Single Source of Truth (SoT) Master Table in BigQuery, standardized utilization metrics (DOI, slot gap, over-capacity), and developed real-time dashboards in Looker Studio and Metabase to support strategic decision-making across 10 fulfillment centers.
+
+Beyond industry experience, I have contributed to academic research in both business and AI domains — including a study on consumer purchasing intention in live commerce streaming and another on non-invasive blood glucose detection using Artificial Neural Networks (ANN). These works reflect my ability to connect data, business insight, and innovation to create measurable impact.
+
+Certified in Google Data Analytics, Google Advanced Data Analytics, and a graduate of Purwadhika’s Data Science & Machine Learning program, I bring hands-on technical skills in Python, SQL, Power BI, and Looker Studio, with expertise in machine learning, statistical analysis, and data storytelling.
+
+I thrive in fast-paced, cross-functional environments where data drives strategic growth, and I’m passionate about bridging analytics with business innovation — especially within dynamic industries like e-commerce, supply chain, and digital platforms.
 
 ## 🌱 What I'm Up To
 - 🧠 Diving deep into **Data Science** and **Machine Learning** fundamentals
