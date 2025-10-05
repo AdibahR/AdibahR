@@ -9,7 +9,7 @@ Currently working as a Data Analyst Intern — Production Planning and Inventory
 
 Beyond industry experience, I have contributed to academic research in both business and AI domains — including a study on consumer purchasing intention in live commerce streaming and another on non-invasive blood glucose detection using Artificial Neural Networks (ANN). These works reflect my ability to connect data, business insight, and innovation to create measurable impact.
 
-Certified in Google Data Analytics, Google Advanced Data Analytics, and a graduate of Purwadhika’s Data Science & Machine Learning program, I bring hands-on technical skills in Python, SQL, Power BI, and Looker Studio, with expertise in machine learning, statistical analysis, and data storytelling.
+Certified in Google Data Analytics, Google Advanced Data Analytics, and a graduate of Purwadhika’s Data Science & Machine Learning program, I bring hands-on technical skills in Python, SQL, Tableau, Power BI, and Looker Studio, with expertise in machine learning, statistical analysis, and data storytelling.
 
 I thrive in fast-paced, cross-functional environments where data drives strategic growth, and I’m passionate about bridging analytics with business innovation — especially within dynamic industries like e-commerce, supply chain, and digital platforms.
 
