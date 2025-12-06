@@ -1,87 +1,139 @@
 <h1 align="center">Hi 👋, I'm Rina Adibah</h1>
-<h3 align="center">Data Analyst | Data Scientist | Machine Learning Enthusiast 🚀</h3>
+<h3 align="center">Data Analyst • Business Intelligence • AI Automation • Optimization Modeling</h3>
 
-Welcome to my tech playground! 📊 I'm passionate about transforming data into actionable insights and building impactful solutions.
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-005FF9?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-I’m a Data Analyst and Business Intelligence Analyst with a multidisciplinary background in Physics, Business, and Data Science, combining analytical rigor with business strategy to help organizations make smarter, data-informed decisions.
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-Currently working as a Data Analyst Intern — Production Planning and Inventory Control (PPIC) Division at Segari, I specialize in supply chain and warehouse analytics, focusing on capacity planning, inventory optimization, and dashboard automation. I’ve built the Single Source of Truth (SoT) Master Table in BigQuery, standardized utilization metrics (DOI, slot gap, over-capacity), and developed real-time dashboards in Looker Studio and Metabase to support strategic decision-making across 10 fulfillment centers.
+  <img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OR--Tools-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-Beyond industry experience, I have contributed to academic research in both business and AI domains — including a study on consumer purchasing intention in live commerce streaming and another on non-invasive blood glucose detection using Artificial Neural Networks (ANN). These works reflect my ability to connect data, business insight, and innovation to create measurable impact.
+---
 
-Certified in Google Data Analytics, Google Advanced Data Analytics, and a graduate of Purwadhika’s Data Science & Machine Learning program, I bring hands-on technical skills in Python, SQL, Tableau, Power BI, and Looker Studio, with expertise in machine learning, statistical analysis, and data storytelling.
+## 👋 About Me
 
-I thrive in fast-paced, cross-functional environments where data drives strategic growth, and I’m passionate about bridging analytics with business innovation — especially within dynamic industries like e-commerce, supply chain, and digital platforms.
+I’m a Data Analyst and BI Analyst with a strong background in **Physics**, **MBA**, and **Data Science**, currently building data-driven, scalable operational systems at **Segari** (E-commerce & Supply Chain).  
 
-## 🌱 What I'm Up To
-- 🧠 Diving deep into **Data Science** and **Machine Learning** fundamentals
-- 📊 Working on **data analytics** projects to solve real-world problems
-- 💡 Learning and implementing **ML algorithms**
-- 🤝 Open to collaborate on **Data Analytics** & **ML projects**
-- ✍️ Writing articles on **[Medium](https://medium.com/@rina.adibah.011)** about my data journey
+I work within the **PPIC division** to develop end-to-end analytics and automation covering **10 Fulfillment Centres**, including:
 
-## 📝 Blog Posts
-Here are some of my recent blog posts on Medium:
+- Managing Segari’s **Single Source of Truth (SoT)** in BigQuery (100K+ rows, 100+ fields)
+- Building real-time operational dashboards (Looker Studio & Metabase)
+- Automating invoice workflows using **n8n + Gmail API + OCR + LLMs** (processing 300–500 emails/day)
+- Developing a **warehouse re-layout optimization engine** (100K+ SKUs, 20K+ planograms) using **MIP & OR-Tools**
 
-1. [**Simplify Machine Learning with H2O AutoML: A Beginner’s Guide**](https://medium.com/@rina.adibah.011/simplify-machine-learning-with-h2o-automl-a-beginners-guide-b9da809a0eaa)  
-   A beginner's guide to simplifying machine learning workflows using H2O AutoML.
+I specialize in **data engineering**, **automation**, and **applied optimization**, helping operational teams save time, reduce errors, and make decisions with reliable, production-ready datasets.
 
-2. [**Enhancing Data Visualization with Altair: Multi-Dimensional Sales Analysis**](https://medium.com/@rina.adibah.011/enhancing-data-visualization-with-altair-multi-dimensional-sales-analysis-2d1cc3443d9b)  
-   Learn how to leverage Altair for multi-dimensional data visualization to analyze sales data more effectively.
+I’m passionate about bridging data, automation, and business problem-solving — designing systems that scale beyond dashboards into long-term decision frameworks.
 
-3. [**A Complete Guide to Creating GUI Applications in Python for Beginners: Looping vs Event Handling**](https://medium.com/@rina.adibah.011/a-complete-guide-to-creating-gui-applications-in-python-for-beginners-looping-vs-event-handling-e0a4db969562)  
-   A comprehensive guide on creating GUI applications in Python, covering key concepts like looping and event handling.
+---
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🌱 What I’m Working On
+- Expanding BigQuery SoT pipelines for Segari’s operational analytics  
+- Building intelligent workflow automation using **n8n + LLM + OCR**  
+- Developing MIP-based warehouse optimization models with OR-Tools  
+- Deepening expertise in data engineering, ML, and operations intelligence
 
-## 📈 GitHub Stats & Streak
-
-**GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adibahr&)
-
-**GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adibahr&show_icons=true&locale=en)
-
-**Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adibahr&show_icons=true&locale=en&layout=compact)
+---
 
 ## 🔥 Highlight Projects
 
-## 🛠️ My Favorite Tools & Technologies
+### **1️⃣ BigQuery SoT – Supply Chain Master Data**
+**Tech:** BigQuery, SQL, GCP  
+A unified master dataset integrating sales, SKU master, planogram capacity, and operational attributes to support daily reporting & automation.
 
-### **Languages**
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+### **2️⃣ 10 FC Warehouse Utilization Dashboard**
+**Tech:** Looker Studio, BigQuery  
+Real-time warehouse monitoring dashboard used by multiple operational teams for SKU utilization, slot capacity, and inventory flow.
+
+### **3️⃣ Automated Invoice Workflow**
+**Tech:** n8n, Gmail API, OCR, Gemini/Mistral, Google Sheets  
+Processes 300–500 emails/day, extracts invoice data, validates fields, and auto-classifies categories for Accounting.
+
+### **4️⃣ Warehouse Re-Layout Optimization Engine**
+**Tech:** Python, OR-Tools, MIP  
+Model for allocating >100K SKUs across 20K+ planograms to optimize utilization and movement costs.
+
+---
+
+## 📝 Latest Blog Posts
+1. [Simplify Machine Learning with H2O AutoML](https://medium.com/@rina.adibah.011/simplify-machine-learning-with-h2o-automl-a-beginners-guide-b9da809a0eaa)  
+2. [Enhancing Data Visualization with Altair](https://medium.com/@rina.adibah.011/enhancing-data-visualization-with-altair-multi-dimensional-sales-analysis-2d1cc3443d9b)  
+3. [Python GUI for Beginners](https://medium.com/@rina.adibah.011/a-complete-guide-to-creating-gui-applications-in-python-for-beginners-looping-vs-event-handling-e0a4db969562)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Analysis & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-004C6D.svg?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4AB8A1.svg?style=flat-square)
+
+### Databases & Cloud
+
+![BigQuery](https://img.shields.io/badge/BigQuery-005FF9.svg?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+
+### Business Intelligence & Visualization
+
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4.svg?style=flat-square&logo=google-analytics&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=flat-square&logo=metabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=flat-square&logo=tableau&logoColor=white)
+
+### Automation & Optimization
+
+![n8n](https://img.shields.io/badge/n8n-A020F0.svg?style=flat-square&logo=n8n&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/OR--Tools-0F9D58.svg?style=flat-square&logo=google&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-14354C.svg?style=flat-square&logo=python&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Sheets_API-34A853.svg?style=flat-square&logo=google-sheets&logoColor=white)
+
+</div>
+
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibahr&theme=light&hide_border=true" height="180px"/>
+  <br/><br/>
 </p>
 
-### **Frameworks & Libraries**
-<p align="left">
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
+---
 
-## 🤝 Let's Connect and Collaborate!
+## 🤝 Connect With Me
 
-I believe in the power of collaboration and knowledge-sharing. Let's connect and explore new opportunities together:
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/rina-adibah/)
-- [Medium](https://medium.com/@rina.adibah.011)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rina-adibah/" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="[https://medium.com/@rina.adibah.011" target="_blank](https://medium.com/@rina.adibah.011" target="_blank" style="text-decoration:none;)">
+  <img src="https://img.shields.io/badge/Medium-000000.svg?style=flat-square&logo=medium&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:rina.adibah.011@gmail.com" target="_blank" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+</div>
