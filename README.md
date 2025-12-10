@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rina Adibah</h1>
-<h3 align="center">Data Analyst • Business Intelligence • AI Automation • Optimization Modeling</h3>
+<h3 align="center">Data Analyst • Business Intelligence • AI Automation • Data Scientist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -18,16 +18,16 @@
 
 ## 👋 About Me
 
-I’m a Data Analyst and BI Analyst with a strong background in **Physics**, **MBA**, and **Data Science**, currently building data-driven, scalable operational systems at **Segari** (E-commerce & Supply Chain).  
+I’m a Data Analyst and BI Analyst with a strong background in **Physics**, **MBA**, and **Data Science**, currently building production-grade, data-driven operational systems at **Segari** (E-grocerry & Supply Chain).  
 
-I work within the **PPIC division** to develop end-to-end analytics and automation covering **10 Fulfillment Centres**, including:
+I work within the **operations division** owning end-to-end analytics and automation across **10 Fulfillment Centres**, including:
 
 - Managing Segari’s **Single Source of Truth (SoT)** in BigQuery (100K+ rows, 100+ fields)
 - Building real-time operational dashboards (Looker Studio & Metabase)
 - Automating invoice workflows using **n8n + Gmail API + OCR + LLMs** (processing 300–500 emails/day)
 - Developing a **warehouse re-layout optimization engine** (100K+ SKUs, 20K+ planograms) using **MIP & OR-Tools**
 
-I specialize in **data engineering**, **automation**, and **applied optimization**, helping operational teams save time, reduce errors, and make decisions with reliable, production-ready datasets.
+My work focuses on **analytics engineering**, **automation**, and **applied optimization**, transforming manual, error-prone processes into reliable, scalable systems that operational teams can trust.
 
 I’m passionate about bridging data, automation, and business problem-solving — designing systems that scale beyond dashboards into long-term decision frameworks.
 
